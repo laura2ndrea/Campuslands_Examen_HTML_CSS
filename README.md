@@ -5,8 +5,7 @@ Este proyecto es una página web estática desarrollada como parte de un examen 
 1. [Información general](#info-general)
 2. [Tecnologías](#tecno)
 3. [Instalacion](#install)
-4. [FAQs](#faqs)
-5. [Autores](#autores)
+4. [Autores](#autores)
 
 ---
    
@@ -41,33 +40,23 @@ La página está estructurada de la siguiente manera:
 - Sistema operativo compatible con Visual Studio Code. 
 - Visual Studio. 
 - Git. 
-- Live Server. 
+- Live Server (extensión en Visual Studio Code). 
 
 ### Paso a paso 
-1. Descarga el archivo ZIP del repositorio desde GitHub o cualquier otra fuente.
+1. Descarga el archivo ZIP del repositorio desde GitHub.
 2. Descomprime el archivo ZIP en una ubicación de tu elección en tu sistema local.
 3. Abre Visual Studio.
 4. En el menú principal, selecciona File (Archivo) > Open (Abrir) > Open Folder (Abrir Carpeta).
-5. Navega a la carpeta descomprimida que contiene el proyecto web y selecciona el archivo de solución del proyecto. 
-
-
----
-
-## FAQs :question:
-<a name="faqs"></a>
-Lista de preguntas frecuentes. <br>  
-:one: **¿Pregunta 1?** <br>  
-*Respuesta 1* <br>  
-:two: **¿Pregunta 2?** <br>  
-*Respuesta 2* <br>  
-:three: **¿Pregunta 3?** <br>  
-*Respuesta 3* 
+5. Navega a la carpeta descomprimida que contiene el proyecto web y seleccionala.
+6. Haz clic derecho en el archivo HTML **index** en el explorador de archivos de Visual Studio Code.
+7. Selecciona la opción Open with Live Server (Abrir con Live Server) en el menú contextual que aparece.
+8.Esto iniciará Live Server y abrirá automáticamente la página web en el navegador predeterminado.
+9. Después de que Live Server haya iniciado correctamente, podrás ver y probar la página web en tiempo real en el navegador.
 
 ---
 
 ## Autores :woman:
 <a name="autores"></a>
-Información de las personas que trabajaron en el proyecto.
 
 - **Laura Rodríguez**:
    - *Aportes: construcción del código, documentación.*
