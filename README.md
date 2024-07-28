@@ -41,10 +41,10 @@ La página está estructurada de la siguiente manera:
 1. Entra a la carpeta donde deseas clonar el repositorio.
 2. Abre el terminal y copia el siguiente código: <br><br>
    ```
-   git clone https://github.com/laura2ndrea/Campuslands_Proyecto_HTML_CSS.git
+   git clone https://github.com/laura2ndrea/Campuslands_Examen_HTML_CSS.git
    ```
 3. Entra a la carpeta donde has clonado el repositorio.
-4. Abre el archivo **home.html** con el navegador de tu preferencia. 
+4. Abre el archivo **index.html** con el navegador de tu preferencia. 
 ---
 
 <a name="autores"></a>
