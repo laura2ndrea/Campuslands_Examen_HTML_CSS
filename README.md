@@ -8,9 +8,8 @@ Este proyecto es una página web estática desarrollada como parte de un examen 
 4. [Autores](#autores)
 
 ---
-   
-## Información general :speech_balloon:
 <a name="info-general"></a>
+## Información general :speech_balloon:
 
 - **Estado**: completado :white_check_mark:
   
@@ -24,39 +23,32 @@ La página está estructurada de la siguiente manera:
 4. **Contact**: Información de contacto y formulario para consultas o comentarios.
   
 ---
-
-## Tecnologías :computer:
 <a name="tecno"></a>
+## Tecnologías :computer:
 - **HTML5**: utilizado para la estructura y contenido de la página web.
 - **CSS3**: empleado para estilizar y dar formato visual a la página.
 - **Visual Studio Code**: Editor de código utilizado para desarrollar y editar los archivos.
 
 ---
-
-## Instalación :wrench:
 <a name="install"></a>
+## Instalación y ejecución :wrench:
 
 ### Requisitos 
-- Sistema operativo compatible con Visual Studio Code. 
-- Visual Studio. 
 - Git. 
-- Live Server (extensión en Visual Studio Code). 
+- Navegador. 
 
 ### Paso a paso 
-1. Descarga el archivo ZIP del repositorio desde GitHub.
-2. Descomprime el archivo ZIP en una ubicación de tu elección en tu sistema local.
-3. Abre Visual Studio.
-4. En el menú principal, selecciona File (Archivo) > Open (Abrir) > Open Folder (Abrir Carpeta).
-5. Navega a la carpeta descomprimida que contiene el proyecto web y seleccionala.
-6. Haz clic derecho en el archivo HTML **index** en el explorador de archivos de Visual Studio Code.
-7. Selecciona la opción Open with Live Server (Abrir con Live Server) en el menú contextual que aparece.
-8.Esto iniciará Live Server y abrirá automáticamente la página web en el navegador predeterminado.
-9. Después de que Live Server haya iniciado correctamente, podrás ver y probar la página web en tiempo real en el navegador.
-
+1. Entra a la carpeta donde deseas clonar el repositorio.
+2. Abre el terminal y copia el siguiente código: <br><br>
+   ```
+   git clone https://github.com/laura2ndrea/Campuslands_Proyecto_HTML_CSS.git
+   ```
+3. Entra a la carpeta donde has clonado el repositorio.
+4. Abre el archivo **home.html** con el navegador de tu preferencia. 
 ---
 
-## Autores :woman:
 <a name="autores"></a>
+## Autores :woman:
 
 - **Laura Rodríguez**:
    - *Aportes: construcción del código, documentación.*
