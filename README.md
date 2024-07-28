@@ -4,7 +4,7 @@ Este proyecto es una página web estática desarrollada como parte de un examen 
 ## Contenido 
 1. [Información general](#info-general)
 2. [Tecnologías](#tecno)
-3. [Instalacion](#install)
+3. [Instalacion y ejecución](#install)
 4. [Autores](#autores)
 
 ---
